@@ -1,5 +1,5 @@
 ### Hi there, I am James and this is my cool stuff. 👋
-
+<h1>I do not have twitter, therefore I will be documenting my 100 Days of Code Challenge progress below</h1>
 <!--
 **JamesAARobertson/JamesAARobertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
