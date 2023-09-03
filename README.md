@@ -1,6 +1,6 @@
 ### Hi there, I am James and this is my cool stuff. 👋
 <h3>I do not have twitter, therefore I will be documenting my 100 Days of Code Challenge progress below</h3>
-
+<p>03/09 Revised HTML code by rebuilding the cat photo app on FreeCode Camp</p>
 <!--
 **JamesAARobertson/JamesAARobertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
