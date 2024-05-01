@@ -12,6 +12,7 @@ I am James, an aspiring software developer. <br>To that end I have partaken in a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JamesAARobertson&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesAARobertson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JamesAARobertson&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
