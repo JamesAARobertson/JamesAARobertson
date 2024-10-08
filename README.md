@@ -9,7 +9,8 @@ A pretty cool guy who has recently learnt to code and loves it. After kickstarti
 * 🌍  I'm based in Hampshire
 * ✉️  You can contact me at [jaarobertson92@gmail.com](mailto:jaarobertson92@gmail.com)
 * 🚀  I'm currently working on [My Gamehub App](http://react-gamehub-seven.vercel.app/)
-* 🧠  I'm learning lots! I have revisited fundamentals to really lock down the basics. Next steps are either Python or Ruby On Rails
+* 🧠  I'm learning lots! I have revisited fundamentals to really lock down the basics and really enjoyed it.
+* To help me on my journey post-bootcamp I am taking part in The Odin Project. This has turned out to be a goldmine for learning and I plan to do everything it has to offer.
 * 🤝  I'm open to collaborating on anything, projects or other creative pursuits
 
 ### Skills
