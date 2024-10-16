@@ -4,7 +4,7 @@ Hi 👋 My name is James
 Software Developer
 ------------------
 
-An interesting chap who has recently learnt to code and loves it. After kickstarting this journey with the School of Code bootcamp I now plan to make it my long time career, I plan this GitHub to be a repository of my progress on this learning journey. Please check out some of my projects and practice below. I love finding out how just about anything works from astrophysics to biology and now code! In my spare time I am either doing something involving the above or reading sci-fi or fantasy, doing some creative writing or playing games.
+An interesting chap who has recently learnt to code and loves it. After kickstarting this journey with the School of Code bootcamp I now plan to make it my long time career, I plan this GitHub to be a repository of my progress on this learning journey. After finishing the bootcamp I have taken part in work experience in a certified B Corp called OpenCast - a software consultancy corporation. I am also using The Odin Project to reinforce the basics and provide myself with a very strong foundation in software development. Please check out some of my projects and practice below. I love finding out how just about anything works from astrophysics to biology and now code! In my spare time I am either doing something involving the above or reading sci-fi or fantasy, doing some creative writing or playing games.
 
 * 🌍  I'm based in Hampshire
 * ✉️  You can contact me at [jaarobertson92@gmail.com](mailto:jaarobertson92@gmail.com)
